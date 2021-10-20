@@ -1,0 +1,12 @@
+#Btn
+283150 - pk
+3352F3 - sec
+
+#Font
+1D2026 - Font 1
+696877 - Font 2
+FFFFFF - Font 3
+
+#Container
+EDEBEB - box 1
+F2F2F2 - box 2
